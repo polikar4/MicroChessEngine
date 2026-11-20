@@ -1,0 +1,12 @@
+.cursor/
+
+# Сборка
+build/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+
+# OS
+Thumbs.db
+.DS_Store
